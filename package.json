@@ -1,0 +1,6 @@
+{
+  "name": "sevahub-frontend",
+  "dependencies": {
+    "react": "^18.0.0"
+  }
+}
